@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ProgrammingWithDave, but you can call me Dave.
-- 👀 I’m interested in HTML and Python.
-- 🌱 I’m currently learning HTML a bit.
-- 💞️ I’m looking to collaborate on a big project.
-- 📫 How to reach me: davekleinex@gmail.com
+Best Programmer 👨‍💻
+Giga Chad Nerd💪
+Best Gaming PC🖥️
 
 <!---
 ProgrammingWithDave/ProgrammingWithDave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
