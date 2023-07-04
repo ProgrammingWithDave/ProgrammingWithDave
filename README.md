@@ -1,6 +1,4 @@
-Best Programmer 👨‍💻
-Giga Chad Nerd💪
-Best Gaming PC🖥️
+I can code I guess.
 
 <!---
 ProgrammingWithDave/ProgrammingWithDave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
